@@ -9,22 +9,22 @@ export class CloudService {
     // tslint:disable-next-line: max-line-length
     {
       url:
-        "https://ia801504.us.archive.org/3/items/EdSheeranPerfectOfficialMusicVideoListenVid.com/Ed_Sheeran_-_Perfect_Official_Music_Video%5BListenVid.com%5D.mp3",
-      name: "Perfect",
-      artist: " Ed Sheeran"
+        "https://ia801709.us.archive.org/16/items/Stan_Getz_Tape_5_1957/Stan_Getz_Tape_5_1957_Side_B.mp3",
+      name: "Niven Jazz Collection: Stan Getz Tape 5 Side B",
+      artist: "Stan Getz"
     },
     {
       // tslint:disable-next-line: max-line-length
       url:
-        "https://ia801609.us.archive.org/16/items/nusratcollection_20170414_0953/Man%20Atkiya%20Beparwah%20De%20Naal%20Nusrat%20Fateh%20Ali%20Khan.mp3",
-      name: "Man Atkeya Beparwah",
-      artist: "Nusrat Fateh Ali Khan"
+        "https://ia801206.us.archive.org/0/items/FlashFMGTAViceCityFullRadioShow/Flash%20FM%20-%20GTA%20vice%20city%20full%20radio%20show.mp3",
+      name: "FlashFM",
+      artist: "GTA Vice City"
     },
     {
       url:
-        "https://ia801503.us.archive.org/15/items/TheBeatlesPennyLane_201805/The%20Beatles%20-%20Penny%20Lane.mp3",
-      name: "Penny Lane",
-      artist: "The Beatles"
+        "https://ia800802.us.archive.org/25/items/KRose_20170808/K-Rose.mp3",
+      name: "K-Rose",
+      artist: "GTA San Andreas"
     }
   ];
 
